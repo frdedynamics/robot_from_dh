@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"dasc",
+	"description":	{
+		"":	"a test"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
